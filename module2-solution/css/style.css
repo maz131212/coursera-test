@@ -4,6 +4,12 @@
   }
   h1 {
     margin-bottom: 15px;
+    font-family: Helvetica;
+  }
+
+  .OptionMenu {
+    background-color: gray;
+    margin-bottom: 15px;
   }
 
   .ChickenMenu {
@@ -12,8 +18,7 @@
     width: 25%;
     height: 15px;
     position: relative;
-    top: 0px;
-    right: 0px;
+    left: 50px;
   }
   
   p {
