@@ -15,10 +15,11 @@
 
   .OptionMenu {
     background-color: gray;
-    overflow: auto;
+    /*overflow: auto;*/
     width: 100%;
-    height: 200px;
+    height: auto;
     border: 2px solid black;
+    border-radius: 10px;
   }
 
   .ChickenMenu {
@@ -30,6 +31,7 @@
     height: 20px;
     position: relative;
     left: 75%;
+    border-radius: 0px 8px 0px 0px;
   }
 
   .BeefMenu {
@@ -42,6 +44,7 @@
     height: 20px;
     position: relative;
     left: 75%;
+    border-radius: 0px 8px 0px 0px;
   }
 
   .SushiMenu {
@@ -53,6 +56,7 @@
     height: 20px;
     position: relative;
     left: 75%;
+    border-radius: 0px 8px 0px 0px;
   }
   
   p {
